@@ -1,2 +1,2 @@
 node:22.11.0-bookworm-slim
-dockerfile:1.4
+native-builder:latest
