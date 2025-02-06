@@ -1,2 +1,2 @@
 node:22.11.0-bookworm-slim
-native-builder:latest
+redis:latest
