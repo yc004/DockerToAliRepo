@@ -1,3 +1,4 @@
 node:22.11.0-bookworm-slim
 redis:latest
 docker/dockerfile:1.4
+snipe/snipe-it:v6.3.4
