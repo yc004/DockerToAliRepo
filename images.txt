@@ -1,1 +1,1 @@
-alisaqaq/mcsmanager-web:10.5.0
+githubyumao/mcsmanager-web:latest
