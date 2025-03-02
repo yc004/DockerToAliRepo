@@ -1,5 +1,1 @@
-node:22.11.0-bookworm-slim
-redis:latest
-docker/dockerfile:1.4
-snipe/snipe-it:latest
 alisaqaq/mcsmanager-web:10.5.0
