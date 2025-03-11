@@ -1,3 +1,4 @@
 githubyumao/mcsmanager-web:latest
 mongo:latest
 node:18-alpine
+mongo:6
