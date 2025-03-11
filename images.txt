@@ -1,1 +1,2 @@
 githubyumao/mcsmanager-web:latest
+mongo:latest
